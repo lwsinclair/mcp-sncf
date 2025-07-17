@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kryzo-mcp-sncf-badge.png)](https://mseep.ai/app/kryzo-mcp-sncf)
+
 # SNCF API MCP Server
 
 This project provides a modular Python wrapper for the SNCF API, with an MCP server interface that integrates seamlessly with Claude Desktop for intelligent journey planning and train information retrieval across France.
